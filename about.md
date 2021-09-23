@@ -1,5 +1,5 @@
 ---
-title: About Sergio López Alberola
+title: About 
 layout: page
 ---
 
