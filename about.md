@@ -2,10 +2,5 @@
 title: About 
 layout: page
 ---
-
-Hola soy **Sergio López Alberola**,  he estudiado Ingeniería Telemática en la Universidad de Valencia y me gusta hacer proyectos de todo tipo, desde software a mecánica de vehículos, instalaciones eléctricas...
-
-
-
-Puedes encontrar mis repositorios aquí <a href="https://github.com/sergiolopesillo">Github</a>
+Hola, soy **Sergio López Alberola**,  he estudiado Ingeniería Telemática en la Universidad de Valencia y me gusta hacer proyectos de todo tipo, desde software a mecánica de vehículos, instalaciones eléctricas...                                                            Mi motivación es aprender y superar retos que mer surgen durante los proyectos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Aquí puedes encontrar mis repositorios donde iré actualizando mis proyectos <a href="https://github.com/sergiolopesillo">Github</a>                                                                                                                                                                                                                                                         
 
